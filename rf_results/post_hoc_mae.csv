@@ -1,0 +1,16 @@
+Post-Hoc (MAE),p-value
+Skip-thoughts Vs InferSent,0.015
+Skip-thoughts Vs Word2Vec,0.02
+Skip-thoughts Vs Simple encoder-decoder,0.02
+Skip-thoughts Vs Bow-tfidf,0.08
+Skip-thoughts Vs Google universal Encoder,0.3
+Google universal Encoder Vs InferSent,2.06
+Google universal Encoder Vs Word2Vec,2.06
+Google universal Encoder Vs Simple encoder-decoder,2.06
+Bow-tfidf Vs InferSent,2.692
+Bow-tfidf Vs Word2Vec,2.692
+Bow-tfidf Vs Google universal Encoder,2.692
+Bow-tfidf Vs Simple encoder-decoder,2.692
+Simple encoder-decoder Vs InferSent,2.692
+Word2Vec Vs InferSent,2.692
+Word2Vec Vs Simple encoder-decoder,2.692
